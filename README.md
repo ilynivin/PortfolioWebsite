@@ -19,12 +19,12 @@ My Portfolio Website
 
  there are some free hosting they are 
   
-- [Netfly] 
+- [netlify] 
 - [Vercel]
   and more  
 
 
-I used [Netfly] to host my website [![Netlify Status](https://api.netlify.com/api/v1/badges/0927c174-542d-4697-83aa-94ec4d4509b6/deploy-status)](https://app.netlify.com/sites/myportfoliowebsite5252/deploys)
+I used [netlify] to host my website [![Netlify Status](https://api.netlify.com/api/v1/badges/0927c174-542d-4697-83aa-94ec4d4509b6/deploy-status)](https://app.netlify.com/sites/myportfoliowebsite5252/deploys)
 
 
 ## Domain Name (DNS)
@@ -41,7 +41,7 @@ Etc ... I used [GoDaddy] to buy my domain for my [Website]
 
 
 
-[Netfly]:(https://app.netlify.com/)
+[netlify]:(https://app.netlify.com/)
 [Vercel]:(https://vercel.com/)
 [Domain.com]:(https://www.domain.com/)
 [Name.com]:(https://www.name.com/)
