@@ -38,6 +38,13 @@ Domain Names are not free but they are paid . Some Popular Domain Name Registeri
 
 Etc ... I used [GoDaddy] to buy my domain for my [Website]
 
+
+## Favicon 
+
+The Favicon is made by : https://favicon.io 
+
+Contribute the [Author](https://twitter.com/johnsorrentino) 
+
 ## LICENSE
 
 Its free , [Unlicense License](https://github.com/MightyPlays/PortfolioWebsite/blob/main/LICENSE)
