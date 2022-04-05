@@ -41,7 +41,7 @@ Etc ... I used [GoDaddy] to buy my domain for my [Website]
 
 ## Favicon 
 
-The Favicon is made by : https://favicon.io 
+The Favicon is made by : https://favicon.io . in under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/#)
 
 Contribute the [Author](https://twitter.com/johnsorrentino) 
 
