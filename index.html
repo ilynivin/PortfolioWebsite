@@ -25,9 +25,28 @@
 
         <!--=============== CSS ===============-->
         <link rel="stylesheet" href="assets/css/styles.css">
-
+        <link rel="stylesheet" href="assets/css/SiteLoder.css">
         <title>Nivin's website</title>
     </head>
+
+    <!--============= SITE LODING ANIMATION =============-->
+
+    <div class='spinner-wrapper'>
+        <div class="spinner"></div>
+    </div>
+
+
+
+<script>
+    let spinnerWrapper = document.querySelector('.spinner-wrapper');
+
+    window.addEventListener('load', function () {
+        //spinnerWrapper.style.display = 'none';
+        spinnerWrapper.parentElement.removeChild(spinnerWrapper);
+    });
+</script>
+
+
     <body>
         <!--=============== HEADER ===============-->
         <header class="profile container">
