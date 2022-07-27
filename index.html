@@ -30,21 +30,12 @@
         <title>Nivin's website</title>
     </head>
 
-    <!--============= SITE LODING ANIMATION =============-->
-
-<div class="wrapper">
-    <div class="box-wrap">
-        <div class="box one"></div>
-        <div class="box two"></div>
-        <div class="box three"></div>
-        <div class="box four"></div>
-        <div class="box five"></div>
-        <div class="box six"></div>
-    </div>
-</div>
-
 
     <body>
+
+         <div id="preloader">
+         </div>
+
         <!--=============== HEADER ===============-->
         <header class="profile container">
             <!-- Theme button -->
@@ -302,5 +293,17 @@
 
         <!--=============== MAIN JS ===============-->
         <script src="assets/js/main.js"></script>
-    </body>
+
+
+
+
+        <script>
+            var loader = document.getElementById("preloader");
+
+            window.addEventListener("load" , function(){
+                loader.style.display = "none"
+            })
+        </script>
+
+    </body> 
 </html>
